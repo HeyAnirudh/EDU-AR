@@ -4,4 +4,5 @@ Our solution is totally smartphone application based , application is supported 
 
 website- https://ltiwdh2uolaziajfbguzaq-on.drv.tw/edu%20/edu%20web/courses/
 Reasearch paper on EDU AR - https://www.ijert.org/edu-ar-integrating-and-optimizing-education-with-augmented-reality
-Demo video - https://www.youtube.com/watch?v=kjdlIhjO-20
+Demo video -https://youtu.be/M0Uy-aru8xg 
+https://www.youtube.com/watch?v=kjdlIhjO-20
