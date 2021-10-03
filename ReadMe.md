@@ -7,3 +7,6 @@ Our solution is totally smartphone application based , application is supported 
 [Reasearch paper on EDU AR](https://www.ijert.org/edu-ar-integrating-and-optimizing-education-with-augmented-reality)<br />
 [Demo video](https://youtu.be/M0Uy-aru8xg) <br />
 [Demo 2](https://www.youtube.com/watch?v=kjdlIhjO-20)<br />
+
+
+### Owners
