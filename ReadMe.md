@@ -10,3 +10,6 @@ Our solution is totally smartphone application based , application is supported 
 
 
 ### Owners
+<a href="https://github.com/HeyAnirudh/EDU-AR/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=HeyAnirudh/EDU-AR" />
+</a>
